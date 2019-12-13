@@ -1,0 +1,41 @@
+{
+	"Head": "Weird Deals Items",
+	"secondHead": "Barrie, ON",
+	"active": true,
+	"topDeals": [
+        {
+           "name": "1,500 live ladybugs",
+		"price": 3.05,
+		"description": " ",
+		"fectures": [
+			"Who says you can't buy anything for under $10 anymore? In fact ",
+			"  Amazon shoppers can buy 1,500 crawling, flying somethings for the bargain price of a latte. "
+		],
+		"image": "live-ladybugs.jpg"
+	},
+	{
+		"name": " A cat butt tissue holder",
+		"price": 34.94,
+		"description": " ",
+		"fectures": [
+			"This seems like the nicest thing to be plucked from a cat's rear since, well, ever. And who doesn't like to be stared down with peering",
+			" Inquisitive eyes each time they need to blow their nose?"
+		],
+		"image": "cat.jpg"
+	},
+	{
+		"name": "A desktop refrigerator",
+		"price": 38.00,
+		"description": " ",
+		"fectures": [
+			"Now when you say you need a cold one, you can mean it literally",
+			" With one (1) single refrigerated beverage at your fingertips"
+		],
+		"image": "refrigerator.jpg"
+        }
+	]
+}
+
+
+
+
